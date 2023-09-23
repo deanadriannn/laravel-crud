@@ -24,3 +24,8 @@ Create model
 ```bash
 php artisan make:model Post
 ```
+
+Wipe Database
+```bash
+php artisan db:wipe
+```
